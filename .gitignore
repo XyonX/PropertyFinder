@@ -1,0 +1,79 @@
+## Build artifacts
+bin/
+obj/
+# Rider caches
+.idea/
+# Visual Studio caches
+.vs/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Mono / Xamarin
+*.pidb
+*.userprefs
+
+## NuGet packages
+*.nupkg
+packages/
+# NuGet v3
+project.assets.json
+project.nuget.cache
+.nuget/
+
+## Microsoft Azure Web App publish settings
+*.Publish.xml
+
+## Visual Studio Code workspace files
+.vscode/
+.history/
+
+## Rider project files
+*.sln.iml
+*.csproj.iml
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Coverage output
+coverage/
+*.lcov
+
+## Logs
+*.log
+
+## Generated files
+Generated\/
+
+## StyleCop
+StyleCopReport.xml
+
+## DotCover
+*.dotCover
+Coverage.Report/
+
+## SQL Server LocalDB
+*.mdf
+*.ldf
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## OS files
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Deployment
+# Azure Functions publish
+bin_publish/
+obj_publish/
