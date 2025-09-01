@@ -96,3 +96,9 @@ dotnet restore
 If you want, I can also show a **direct mapping of common npm commands to dotnet CLI commands**, so it feels more like Node.js when you switch.
 
 Do you want me to do that?
+
+
+
+//DTOS ARE USE TO PUT CONSTRAINSTS ON THE ENDPOINT
+//REPOSITORY HANDLE THE RUNNING QUARIES ON THE SERVER SO TO PERFORM ANY DATABSE OPERATIOIN RATHER DOING DIRECTLY OME HTE SERVER WE USE REPOSOTY 
+
